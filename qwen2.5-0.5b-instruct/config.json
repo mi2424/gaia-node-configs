@@ -14,7 +14,7 @@
     "qdrant_limit": "1",
     "qdrant_score_threshold": "0.5",
     "rag_policy": "none",
-    "chat_name": "WizardPB",
+    "chat_name": "Qwen2.5-0.5B-Instruct-Q5_K_M",
     "rag_prompt": "",
     "reverse_prompt": "",
     "snapshot": "",
